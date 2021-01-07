@@ -8,7 +8,7 @@
 ## Interesses e Atuações
 
 > - 🖥 Trabalho como Analista de Big Data na Indra Brasil.
-> - 🧬 Atuo em projetos de Bioinformática e Machine Learning no Mestrado no Laboratório de Aplicações de Ineligência Artificial (ARIA).
+> - 🧬 Atuo em projetos de Bioinformática e Machine Learning no Laboratório de Aplicações de Ineligência Artificial (ARIA).
 > - 📊 Adoro estudar IA, Estatistica e Visualização de Dados
 > - 💌 Aberta a ajudar a quem precisar, no que eu puder ajudar!
 > - 🦊 Sou criativa, disposta, proativa, e comunicativa.
