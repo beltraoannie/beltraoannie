@@ -3,7 +3,7 @@
 > * Cientista de Dados, Bioinformata e pesquisadora na área de Aprendizagem de Máquina
 > * Biotecnologista, UFPB
 > * Mestranda em Informática, UFPB
-> * Mãe de vários individuos espalhadpos no reino Eukarya
+> * Mãe de vários individuos espalhados pelo reino Eukarya
 
 ## Interesses e Atuações
 
