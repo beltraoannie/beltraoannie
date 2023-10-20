@@ -7,8 +7,8 @@
 
 ## Interests and Activities
 
-> - 🖥 I work as a Data Engineer at NXT ENGINEERING.
-> -    I work on Bioinformatics and Machine Learning projects at the Artificial Ineligibility Applications Laboratory (ARIA).
+> - 🖥 I work as a Data Engineer at A3DATA.
+> -    I worked on Bioinformatics and Machine Learning projects at the Artificial Ineligibility Applications Laboratory (ARIA).
 > - 📊 I love to study AI, Statistics and Data Visualization
 > - 💌 Open to helping anyone who needs it, whatever I can help!
 > - 🦊 I'm creative, willing, proactive, and communicative.
